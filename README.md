@@ -13,4 +13,4 @@ git tag
 how to delete tag locally and remotly ?
 to delete remote tag ----- git push origin --delete v1.7
 to delete local tag ----- git tag -d v1.7
-
+![My Image](git-github.png)
